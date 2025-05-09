@@ -3,7 +3,6 @@
 🎯 Desenvolvedor interessado em projetos de tecnologia, jogos e automação!
 
 ---
-
   
 ### 📊 Estatísticas GitHub:
 
