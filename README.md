@@ -1,6 +1,6 @@
 ### Olá, eu sou o João! 👋
 
-- 🔭 Atualmente trabalhando em projetos de games com Unity
+- 🔭Estudando na Fatec Taquaritingua 
 - 🌱 Estudando C#, python e IA
 - 📫 Como me encontrar: josearthurcamilo.30@gmail.com
 
