@@ -6,22 +6,25 @@
   
 ### 📊 Estatísticas GitHub:
 
-<div style= "display: flex; justify-content: space-between; gap: 20px;">
-
-  <div>
-
+<table>
+  
+  <tr>
+    
+  <td>
+   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseArthurCamiloDosAnjos&layout=compact&langs_count=6&theme=tokyonight)
 
-  </div>
-  
-  <div>
-   
+  </td>
+
+  <td>
+    
 ![JoseArthur GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoseArthurCamiloDosAnjos&show_icons=true&theme=tokyonight)
 
-  </div>
- 
- </div>
-
+  </td>
+    
+  </tr>
+   
+</table>
 <div style="display: flex; align-items: center; gap: 20px;">
   
 ### ✨ Sobre mim
