@@ -7,7 +7,6 @@
 ### 📊 Estatísticas GitHub:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseArthurCamiloDosAnjos&layout=compact&langs_count=6&theme=tokyonight)
-<img src="https://github-readme-stats.vercel.app/api?username=JoseArthurCamiloDosAnjos&show_icons=true&theme=tokyonight" width="400"/>
 
 ![JoseArthur GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoseArthurCamiloDosAnjos&show_icons=true&theme=tokyonight)
 
