@@ -1,7 +1,18 @@
-### Olá, eu sou o João! 👋
+### Olá! 👋 Me chamo José Arthur
 
-- 🔭Estudando na Fatec Taquaritingua 
-- 🌱 Estudando C#, python e IA
+🎯 Desenvolvedor interessado em projetos de tecnologia, jogos e automação!
+
+---
+
+### 📊 Estatísticas GitHub:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseArthurCamiloDosAnjos&layout=compact&langs_count=6&theme=tokyonight)
+
+![JoseArthur GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoseArthurCamiloDosAnjos&show_icons=true&theme=tokyonight)
+
+---
+
+### ✨ Sobre mim
+
+- 🔭 Atualmente estudando python, IA e C#
 - 📫 Como me encontrar: josearthurcamilo.30@gmail.com
-
-![JoséGitHub Stats](https://github-readme-stats.vercel.app(https://github.com/JoseArthurCamiloDosAnjos)/api?username=JoseArthur&show_icons=true)
